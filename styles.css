@@ -4,7 +4,7 @@ body{
 }
 
 .nav ul {
-  list-style: none;
+  display: inline-block;
   background-color: #444;
   text-align: center;
   padding: 0;
