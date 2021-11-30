@@ -6,3 +6,8 @@ body{
 li {
   display: inline;
 }
+
+li a {
+   display : block;
+   width: 60px;
+}
